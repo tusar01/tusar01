@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on my skills.
 
-- 💬 Ask me about <code><strong>VLSI</code></strong> and <code><strong>LINUX</strong></code>.
+- 💬 Ask me about <code><strong>VLSI</code></strong>.
 
 - 🌱 I’m currently learning <code><strong>PYTHON</strong></code> and <code><strong>VLSI</strong></code>.
 
@@ -45,7 +45,7 @@
 <h2>My Github Stats <img src="https://github.com/tusar01/tusar01/blob/main/gif/stats.webp" height="25" width="30" /></h2>
 <br>
   
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tusar Kumar Nayak's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusar019&layout=defult&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusar01&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tusar Kumar Nayak's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusar019&layout=defult&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
