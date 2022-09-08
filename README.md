@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/djswain9/djswain9/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 
 
